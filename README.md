@@ -11,6 +11,7 @@ Em alguns exercícios também deixei soluções alternativas, usando outras form
 
 - **1001** - Extremamente Básico
 - **1002** - Área do Círculo
+- **1036** - Fórmula de Bhaskara
 - **1050** - DDD
 - **2057** - Fuso Horário
 
