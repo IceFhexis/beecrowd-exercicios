@@ -5,7 +5,7 @@ Daniel José
 
 Repositório com minhas resoluções dos exercícios utilizados nas aulas.
 
-Em alguns exercícios também deixei soluções alternativas, usando outras formas de chegar ao mesmo resultado.
+Em alguns exercícios também deixei soluções alternativas, usando outras formas que encontrei de chegar ao mesmo resultado.
 
 ## Exercícios
 
@@ -13,3 +13,7 @@ Em alguns exercícios também deixei soluções alternativas, usando outras form
 - **1002** - Área do Círculo
 - **1050** - DDD
 - **2057** - Fuso Horário
+
+---
+
+Se precisar de alguma ajuda, sabe onde me encontrar :)
