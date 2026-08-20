@@ -17,7 +17,9 @@ O objetivo não é servir como gabarito, mas como material de apoio para quem qu
 
 - **1001** - Extremamente Básico
 - **1002** - Área do Círculo
+- **1005** - Média
 - **1007** - Diferença
+- **1012** - Área
 - **1019** - Conversão de Tempo
 - **1036** - Fórmula de Bhaskara
 - **1040** - Média 3
