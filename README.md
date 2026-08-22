@@ -13,6 +13,13 @@ Cada exercício possui um arquivo `ideia.md`, onde tento explicar o raciocínio 
 
 O objetivo não é servir como gabarito, mas como material de apoio para quem quiser comparar ideias ou entender uma abordagem diferente.
 
+## Status para cada Modulo
+
+``` text
+- Modulo 1 (Completo)
+- Modulo 2 (Completo)
+```
+
 ## Exercícios
 
 - **1001** - Extremamente Básico
@@ -32,6 +39,8 @@ O objetivo não é servir como gabarito, mas como material de apoio para quem qu
 - **1146** - Sequências
 - **1837** - Prefácio
 - **1957** - Converter para Hexadecimal
+- **1958** - Notação Científica
+- **1959** - Polígonos Regulares Simples
 - **1963** - O Filme
 - **2003** - Domingo de Manhã
 - **2057** - Fuso Horário
