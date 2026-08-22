@@ -1,3 +1,5 @@
+
+
 v = int(input())
 
 digitos = "0123456789ABCDEF"
