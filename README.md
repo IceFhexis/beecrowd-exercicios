@@ -27,6 +27,7 @@ O objetivo não é servir como gabarito, mas como material de apoio para quem qu
 - **1005** - Média
 - **1007** - Diferença
 - **1012** - Área
+- **1013** - O Maior
 - **1018** - Cédulas
 - **1019** - Conversão de Tempo
 - **1036** - Fórmula de Bhaskara
