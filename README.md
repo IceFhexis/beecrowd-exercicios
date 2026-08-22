@@ -20,6 +20,7 @@ O objetivo não é servir como gabarito, mas como material de apoio para quem qu
 - **1005** - Média
 - **1007** - Diferença
 - **1012** - Área
+- **1018** - Cédulas
 - **1019** - Conversão de Tempo
 - **1036** - Fórmula de Bhaskara
 - **1040** - Média 3
@@ -29,6 +30,8 @@ O objetivo não é servir como gabarito, mas como material de apoio para quem qu
 - **1114** - Senha Fixa
 - **1142** - PUM
 - **1146** - Sequências
+- **1837** - Prefácio
+- **1957** - Converter para Hexadecimal
 - **1963** - O Filme
 - **2003** - Domingo de Manhã
 - **2057** - Fuso Horário

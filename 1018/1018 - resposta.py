@@ -51,4 +51,3 @@ print(f'{nota_10} nota(s) de R$ 10,00')
 print(f'{nota_5} nota(s) de R$ 5,00')
 print(f'{nota_2} nota(s) de R$ 2,00')
 print(f'{nota_1} nota(s) de R$ 1,00')
-
